@@ -272,7 +272,7 @@ elif (background_removal == True) and (image_adjust == True):
 
 # No selection
 elif (background_removal == False) and (image_adjust == False) and (uploaded_file is None):
-    image = Image.open('/Users/adames/Desktop/images-ai/images/amelie_agoldenretriever.jpg')
+    image = Image.open('./images/amelie_agoldenretriever.jpg')
     
     # remove filter
     output_image = remove(image)
