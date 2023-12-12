@@ -1,7 +1,7 @@
 
 # Image Enhancement and Background Removal App
 
-![Image_Processing_App](./images/amelie_agoldenretriever.jpg)
+![Image_Processing_App](./images/example1.png)
 
 ## Table of Contents
 - [Overview](#overview)
