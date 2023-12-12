@@ -18,20 +18,19 @@ This Streamlit-based application offers advanced image processing capabilities, 
 1. **Background Removal**: Efficiently removes the background from images, leaving the subject intact.
 2. **Image Quality Enhancement**: Adjusts parameters like brightness, contrast, and sharpness to improve overall image quality.
 3. **Interactive User Interface**: Easy-to-use sliders and checkboxes for adjusting image parameters.
-4. **Real-time Image Processing**: Quickly processes images and displays results in real time.
-5. **Downloadable Results**: Users can download enhanced images directly from the app.
+4. **Downloadable Results**: Users can download enhanced images directly from the app.
 
 ## Requirements
 
-- Python 3.6 or newer.
+- Python 3.11 or newer.
 - Libraries: `streamlit`, `opencv-python`, `numpy`, `Pillow`, `rembg`.
 
 ## Installation & Usage
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-github-username/Image-Processing-App.git
-    cd Image-Processing-App
+    git clone https://github.com/your-github-username/images-ai.git
+    cd images-ai
     ```
 
 2. **Setup a Virtual Environment (optional but recommended)**:
@@ -47,10 +46,8 @@ This Streamlit-based application offers advanced image processing capabilities, 
 
 4. **Run the Streamlit App**:
     ```bash
-    streamlit run image_processing_app.py 
+    streamlit run main.py 
     ```
-
-5. **Access the App**: Open your browser and go to `http://localhost:8501`.
 
 ## Acknowledgements
 
