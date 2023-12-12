@@ -29,8 +29,8 @@ This Streamlit-based application offers advanced image processing capabilities, 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-github-username/images-ai.git
-    cd images-ai
+    git clone https://github.com/your-github-username/images-editor.git
+    cd images-editor
     ```
 
 2. **Setup a Virtual Environment (optional but recommended)**:
