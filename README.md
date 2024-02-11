@@ -3,14 +3,6 @@
 
 ![Image_Processing_App](./images/example1.png)
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation & Usage](#installation--usage)
-- [Acknowledgements](#acknowledgements)
-
-## Overview
 
 This Streamlit-based application offers advanced image processing capabilities, including high-quality image enhancement and background removal. It provides users with intuitive tools for improving image quality and customizing their photos with ease.
 
@@ -49,8 +41,3 @@ This Streamlit-based application offers advanced image processing capabilities, 
     streamlit run main.py 
     ```
 
-## Acknowledgements
-
-- Image processing capabilities powered by [OpenCV](https://opencv.org/).
-- Background removal functionality provided by [REmbg](https://github.com/danielgatis/rembg).
-- UI and app development using [Streamlit](https://www.streamlit.io/).
